@@ -1,0 +1,19 @@
+{
+  "name": "newdapp",
+  "version": "1.0.0",
+  "description": "new other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadhiiii/newdapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadhiiii/newdapp/issues"
+  },
+  "homepage": "https://github.com/Hadhiiii/newdapp#readme"
+}
